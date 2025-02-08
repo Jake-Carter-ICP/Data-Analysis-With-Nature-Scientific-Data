@@ -1,0 +1,85 @@
+SoilProperty,Element,Fraction ,Extraction ,Unit
+Al_Oxa,Al,,Oxalate extraction,mg kg-1 DM
+Al_Sol_Ca,Al,Soluble,0.01 M Ca(NO3)2 ,mg kg-1 DM
+Al_Tot_Aqu,Al,Total,Aqua regia,mg kg-1 DM
+As_Tot_Aqu,As,Total,Aqua regia,mg kg-1 DM
+Ba_Sol_Ca,Ba,Soluble,0.01 M Ca(NO3)2 ,mg kg-1 DM
+C_inorg,C,Inorganic C,,%
+C_org,C,Organic C,,%
+C_tot,C,Total C,,%
+Ca_CEC,Ca,Exchangable ,cobalt(III) hexamine ,cmolc kg-1
+Ca_Tot_Aqu,Ca,Total,Aqua regia,mg kg-1 DM
+Cd_DTPA,Cd,Potentially available,DTPA,mg kg-1 DM
+Cd_Sol_Ca,Cd,Soluble,0.01 M Ca(NO3)2 ,mg kg-1 DM
+Cd_Tot_Aqu,Cd,Total,Aqua regia,mg kg-1 DM
+Co_CaCl,Co,Soluble ,0.01 M CaCl2,mg kg-1 DM
+Co_DTPA,Co,Potentially available,DTPA,mg kg-1 DM
+Co_Sol_Ca,Co,Soluble,0.01 M Ca(NO3)2 ,mg kg-1 DM
+Co_Tot_Aqu,Co,Total,Aqua regia,mg kg-1 DM
+Cr_Tot_Aqu,Cr,Total,Aqua regia,mg kg-1 DM
+Cu_CaCl,Cu,Soluble ,0.01 M CaCl2,mg kg-1 DM
+Cu_DTPA,Cu,Potentially available,DTPA,mg kg-1 DM
+Cu_Sol_Ca,Cu,Soluble,0.01 M Ca(NO3)2 ,mg kg-1 DM
+Cu_Tot_Aqu,Cu,Total,Aqua regia,mg kg-1 DM
+eCEC,eCEC,Effective cation exchange capacity,cobalt(III) hexamine ,cmolc kg-1
+Fe_CaCl,Fe,Soluble ,0.01 M CaCl2,mg kg-1 DM
+Fe_DTPA,Fe,Potentially available,DTPA,mg kg-1 DM
+Fe_Oxa,Fe,,Oxalate ,mg kg-1 DM
+Fe_Sol_Ca,Fe,Soluble,0.01 M Ca(NO3)2 ,mg kg-1 DM
+Fe_Tot_Aqu,Fe,Total,Aqua regia,mg kg-1 DM
+K_CaCl,K,Soluble ,0.01 M CaCl2,mg kg-1 DM
+K_CEC,K,Exchangable ,cobalt(III) hexamine ,cmolc kg-1
+K_Sol_Ca,K,Soluble,0.01 M Ca(NO3)2 ,mg kg-1 DM
+K_Tot_Aqu,K,Total,Aqua regia,mg kg-1 DM
+Mg_CaCl,Mg,Soluble ,0.01 M CaCl2,mg kg-1 DM
+Mg_CEC,Mg,Exchangable ,cobalt(III) hexamine ,cmolc kg-1
+Mg_Sol_Ca,Mg,Soluble,0.01 M Ca(NO3)2 ,mg kg-1 DM
+Mg_Tot_Aqu,Mg,Total,Aqua regia,mg kg-1 DM
+Mn_CaCl,Mn,Soluble ,0.01 M CaCl2,mg kg-1 DM
+Mn_DTPA,Mn,Potentially available,DTPA,mg kg-1 DM
+Mn_Oxa,Mn,,Oxalate ,mg kg-1 DM
+Mn_Sol_Ca,Mn,Soluble,0.01 M Ca(NO3)2 ,mg kg-1 DM
+Mn_Tot_Aqu,Mn,Total,Aqua regia,mg kg-1 DM
+Mo_CaCl,Mo,Soluble ,0.01 M CaCl2,mg kg-1 DM
+Mo_Sol_Ca,Mo,Soluble,0.01 M Ca(NO3)2 ,mg kg-1 DM
+Mo_Tot_Aqu,Mo,Total,Aqua regia,mg kg-1 DM
+N_tot,N,Total N,,%
+Na_CaCl,Na,Soluble ,0.01 M CaCl2,mg kg-1 DM
+Na_CEC,Na,Exchangable ,cobalt(III) hexamine ,cmolc kg-1
+Na_Sol_Ca,Na,Soluble,0.01 M Ca(NO3)2 ,mg kg-1 DM
+Na_Tot_Aqu,Na,Total,Aqua regia,mg kg-1 DM
+Ni_CaCl,Ni,Soluble ,0.01 M CaCl2,mg kg-1 DM
+Ni_DTPA,Ni,Potentially available,DTPA,mg kg-1 DM
+Ni_Sol_Ca,Ni,Soluble,0.01 M Ca(NO3)2 ,mg kg-1 DM
+Ni_Tot_Aqu,Ni,Total,Aqua regia,mg kg-1 DM
+NOPC,NO,Dissolved organic C,,mg L-1
+P_CaCl,P_,Soluble ,0.01 M CaCl2,mg kg-1 DM
+P_Olsen,P,,Olsen method,mg kg-1 DM
+P_Oxa,P,,Oxalate ,mg kg-1 DM
+P_Sol_Ca,P,Soluble,0.01 M Ca(NO3)2 ,mg kg-1 DM
+P_Tot_Aqu,P,Total,Aqua regia,mg kg-1 DM
+Pb_DTPA,Pb,Potentially available,DTPA,mg kg-1 DM
+Pb_Sol_Ca,Pb,Soluble,0.01 M Ca(NO3)2 ,mg kg-1 DM
+Pb_Tot_Aqu,Pb,Total,Aqua regia,mg kg-1 DM
+PBI,PBI,Phosphorus Buffering Index,,no unit
+pH_CaNO,pH,pH measured in 0.01 M Ca(NO3)2,,no unit
+pH_w,pH,pH measured in soil:water suspension,,no unit
+S_Ads_Seq,S,Adsorbed,Sequential (0.016 M KH2PO4),mg kg-1 DM
+S_CaCl,S,Soluble,0.01 M CaCl2,mg kg-1 DM
+S_Org_Seq,S,Organic,Sequential (10% TMAH),mg kg-1 DM
+S_Sol_Seq,S,Soluble,Sequential (0.01 M KNO3),mg kg-1 DM
+S_Tot_Aqu,S,Total,Aqua regia,mg kg-1 DM
+Se_Ads_Seq,Se,Adsorbed,Sequential (0.016 M KH2PO4),µg kg-1 DM
+Se_CaCl,Se,Soluble ,0.01 M CaCl2,mg kg-1 DM
+Se_Org_Seq,Se,Organic,Sequential (10% TMAH),µg kg-1 DM
+Se_Sol_Seq,Se,Soluble,Sequential (0.01 M KNO3),µg kg-1 DM
+Se_Tot_Aqu,Se,Total,Aqua regia,mg kg-1 DM
+Ti_Tot_Aqu,Ti,Total,Aqua regia,mg kg-1 DM
+U_Sol_Ca,U,Soluble,0.01 M Ca(NO3)2 ,mg kg-1 DM
+Zn_CaCl,Zn,Soluble ,0.01 M CaCl2,mg kg-1 DM
+Zn_DTPA,Zn,Potentially available,DTPA,mg kg-1 DM
+Zn_E,Zn,Isotopically exchangeable,Isotopic dilution,mg kg-1 DM
+Zn_FIA,Zn,Free ion activity,Predicted by geochemical  Windermere Humic Aqueous Model (WHAM),mole L-1
+Zn_LogKd,Zn,Partition coefficient,Isotopic dilution,log (L kg-1)
+Zn_Sol_Ca,Zn,Soluble,0.01 M Ca(NO3)2 ,mg kg-1 DM
+Zn_Tot_Aqu,Zn,Total,Aqua regia,mg kg-1 DM
